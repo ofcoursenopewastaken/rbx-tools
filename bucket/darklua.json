@@ -16,7 +16,8 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/seaofvoices/darklua/releases/download/v$version/darklua-windows-x86_64.zip",            }
+                "url": "https://github.com/seaofvoices/darklua/releases/download/v$version/darklua-windows-x86_64.zip"
+            }
         }
     }
 }
