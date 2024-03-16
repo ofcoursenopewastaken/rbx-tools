@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/UpliftGames/wally/releases/download/v$version/wally-v$version-win64.zip",
+                "url": "https://github.com/UpliftGames/wally/releases/download/v$version/wally-v$version-win64.zip"
             }
         }
     }
